@@ -1,11 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <p>Hello! my name is osama</p>
+      <p>Hello! my name is osama ameer</p>
     </div>
   );
 }
